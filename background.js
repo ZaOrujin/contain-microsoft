@@ -5,9 +5,8 @@ const MICROSOFT_CONTAINER_DETAILS = {
   icon: "briefcase"
 };
 
-const MICROSOFT_DOMAINS = ["microsoft.com", "microsoft.org", "microsoft.net", "microsoft.co", "microsoft.co.uk", "microsoft.nl", 
-"github.com", "github.io", "githubapp.com", "githubusercontent.com", "azurewebsites.net","azure-mobile.net","cloudapp.net",
-"microsoftproductionstudios.org", "azure.com", "windowsazure.com", "bing.com", "bing.net", "bingtoolbar.com", "outlook.com",
+const MICROSOFT_DOMAINS = ["microsoft.com", "microsoft.org", "microsoft.net", "microsoft.co", "microsoft.co.uk", "microsoft.nl", "azurewebsites.net","azure-mobile.net","cloudapp.net",
+"microsoftproductionstudios.org", "azure.com", "windowsazure.com", "bingtoolbar.com", "outlook.com",
 "skype.com", "hotmail.com", "live.com", "sharepoint.com", "bingtoolbar.com", "internetexplorer.com",  "onedrive.com",
 "onenote.com", "office.com","office365.com", "xbox.com", "visualstudio.com","microsoftvisualstudio.com",  "microsoftonline.com",
 "Surface.com", "Zone.com", "rare.com", "Sites.com", "msdn.com"];
