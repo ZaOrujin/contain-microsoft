@@ -1,15 +1,15 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 1,
   "name": "Microsoft Container",
-  "version": "1.0.4",
-  "description": "This addon is an unofficial fork of Mozilla's Facebook Container designed for Microsoft. \n Microsoft Container isolates your Microsoft activity from the rest of your web activity in order to prevent Microsoft from tracking you outside of the Microsoft website via third party cookies. \n This is not an official Mozilla Product & is in no way related to them.",
+  "version": "1.0.0",
+  "description": "TThis Project is a fork of Kouassi Goli's Microsoft Container modified to exclude bing and github domains. \n Microsoft Container isolates your Microsoft activity from the rest of your web activity in order to prevent Microsoft from tracking you outside of the Microsoft website via third party cookies. \n This is not an official Mozilla Product & is in no way related to them.",
   "icons": {
     "48": "icon.png",
     "96": "icon@2x.png"
   },
   "applications": {
     "gecko": {
-      "id": "@contain-microsoft",
+      "id": "@contain-microsoft-modified",
       "strict_min_version": "57.0"
     }
   },
